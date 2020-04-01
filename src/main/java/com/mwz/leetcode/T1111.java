@@ -1,9 +1,5 @@
 package com.mwz.leetcode;
 
-import java.util.Arrays;
-import java.util.concurrent.atomic.AtomicInteger;
-import java.util.stream.Collectors;
-
 public class T1111 {
 
     public int[] maxDepthAfterSplit(String seq) {
